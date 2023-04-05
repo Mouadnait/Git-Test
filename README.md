@@ -40,8 +40,7 @@ I'm a self-taught passionate mobile app developer from Peru 🇵🇪
 
 <!--Mockup-->  
   <div align="center"> 
-    <img src="/IMG//me1.png" alt="">
-    <img src="/IMG/me2.png" alt="">
+    <img src="/IMG/on11.png" alt="">
   </div>
 
 <!--
